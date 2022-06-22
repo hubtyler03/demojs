@@ -1,3 +1,5 @@
 function func() {
-  alert();
+  window.alert();
 }
+
+func();
